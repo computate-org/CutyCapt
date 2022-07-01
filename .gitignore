@@ -1,0 +1,6 @@
+.qmake.stash
+CutyCapt
+CutyCapt.o
+Makefile
+moc_*
+
